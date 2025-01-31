@@ -1,4 +1,4 @@
-Overview
+Overview :
 This project aims to build a machine learning model to predict loan approval based on applicant details such as income, credit history, employment status, and other financial factors.
 
 Dataset
