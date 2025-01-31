@@ -13,6 +13,8 @@ Education Level,
 Dependents, and
 Credit History
 Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)
-Machine Learning Models: Logistic Regression, K-Nearest Neighbors (KNN), Decision Trees
-Data Preprocessing:  Label Encoding, Feature Scaling
+
 Visualization: Seaborn & Matplotlib for exploratory data analysis
+Machine Learning Models: Logistic Regression, K-Nearest Neighbors (KNN), Decision Trees, and Naive Bayes
+Data Preprocessing:  Label Encoding, Feature Scaling
+
